@@ -14,9 +14,9 @@ const products = [
     material: "Cotton",
     gender: "Men",
     images: [
-      { url: "../../../public/red-shirt-bottom.webp", altText: "Men Top Wear - Red - Classic Oxford Button-Down Shirt" },
-      { url: "../../../public/blue-shirt-top.webp", altText: "Men Top Wear - Blue - Classic Oxford Button-Down Shirt" },
-      { url: "../../../public/yellow-shirt-top.webp", altText: "Men Top Wear - Yellow - Classic Oxford Button-Down Shirt" },
+      { url: "/red-shirt-bottom.webp", altText: "Men Top Wear - Red - Classic Oxford Button-Down Shirt" },
+      { url: "/blue-shirt-top.webp", altText: "Men Top Wear - Blue - Classic Oxford Button-Down Shirt" },
+      { url: "/yellow-shirt-top.webp", altText: "Men Top Wear - Yellow - Classic Oxford Button-Down Shirt" },
     ],
   },
   {
@@ -34,8 +34,8 @@ const products = [
     material: "Cotton",
     gender: "Men",
     images: [
-      { url: "../../../public/beigt-bottom-men.jpg", altText: "Men Bottom Wear - Beige - Slim Fit Chinos" },
-      { url: "../../../public/navy-men-bottom.webp", altText: "Men Bottom Wear - Navy - Slim Fit Chinos" },
+      { url: "/beigt-bottom-men.jpg", altText: "Men Bottom Wear - Beige - Slim Fit Chinos" },
+      { url: "/navy-men-bottom.webp", altText: "Men Bottom Wear - Navy - Slim Fit Chinos" },
     ],
   },
   {
@@ -53,9 +53,9 @@ const products = [
     material: "Chiffon",
     gender: "Women",
     images: [
-      { url: "../../../public/pink-floral-women.jpg", altText: "Women Dresses - Pink - Floral Summer Dress" },
-      { url: "../../../public/white-floral-women.jpg", altText: "Women Dresses - White - Floral Summer Dress" },
-      { url: "../../../public/blue-floral-women.jpg", altText: "Women Dresses - Blue - Floral Summer Dress" },
+      { url: "/pink-floral-women.jpg", altText: "Women Dresses - Pink - Floral Summer Dress" },
+      { url: "/white-floral-women.jpg", altText: "Women Dresses - White - Floral Summer Dress" },
+      { url: "/blue-floral-women.jpg", altText: "Women Dresses - Blue - Floral Summer Dress" },
     ],
   },
   {
@@ -73,8 +73,8 @@ const products = [
     material: "Cotton",
     gender: "Unisex",
     images: [
-      { url: "../../../public/white-tshirt-unisex.avif", altText: "Unisex Top Wear - White - Graphic T-Shirt" },
-      { url: "../../../public/black-tshirt-unisex.webp", altText: "Unisex Top Wear - Black - Graphic T-Shirt" },
+      { url: "/white-tshirt-unisex.avif", altText: "Unisex Top Wear - White - Graphic T-Shirt" },
+      { url: "/black-tshirt-unisex.webp", altText: "Unisex Top Wear - Black - Graphic T-Shirt" },
     ],
   },
   {
@@ -92,8 +92,8 @@ const products = [
     material: "Cotton",
     gender: "Men",
     images: [
-      { url: "../../../public/green-teashirt-men.webp", altText: "Men Top Wear - Green - Casual Polo Shirt" },
-      { url: "../../../public/whiet-teashirt-men.avif", altText: "Men Top Wear - White - Casual Polo Shirt" },
+      { url: "/green-teashirt-men.webp", altText: "Men Top Wear - Green - Casual Polo Shirt" },
+      { url: "/whiet-teashirt-men.avif", altText: "Men Top Wear - White - Casual Polo Shirt" },
     ],
   },
   {
@@ -111,8 +111,8 @@ const products = [
     material: "Wool",
     gender: "Men",
     images: [
-      { url: "../../../public/nav-formal-suit-men.webp", altText: "Men Formal Wear - Navy - Formal Suit" },
-      { url: "../../../public/gray-formal-suit-men.jpeg", altText: "Men Formal Wear - Gray - Formal Suit" },
+      { url: "/nav-formal-suit-men.webp", altText: "Men Formal Wear - Navy - Formal Suit" },
+      { url: "/gray-formal-suit-men.jpeg", altText: "Men Formal Wear - Gray - Formal Suit" },
     ],
   },
   {
@@ -130,8 +130,8 @@ const products = [
     material: "Fleece",
     gender: "Unisex",
     images: [
-      { url: "../../../public/black-hoody-unisex.jpg", altText: "Unisex Top Wear - Black - Hoodie" },
-      { url: "../../../public/gray-hoodie-unisex.jpg", altText: "Unisex Top Wear - Gray - Hoodie" },
+      { url: "/black-hoody-unisex.jpg", altText: "Unisex Top Wear - Black - Hoodie" },
+      { url: "/gray-hoodie-unisex.jpg", altText: "Unisex Top Wear - Gray - Hoodie" },
     ],
   },
   {
@@ -149,8 +149,8 @@ const products = [
     material: "Polyester",
     gender: "Men",
     images: [
-      { url: "../../../public/black-trackpant-men.webp", altText: "Men Activewear - Black - Track Pants" },
-      { url: "../../../public/navy-men-bottom.webp", altText: "Men Activewear - Navy - Track Pants" },
+      { url: "/black-trackpant-men.webp", altText: "Men Activewear - Black - Track Pants" },
+      { url: "/navy-men-bottom.webp", altText: "Men Activewear - Navy - Track Pants" },
     ],
   },
   {
@@ -168,8 +168,8 @@ const products = [
     material: "Denim",
     gender: "Men",
     images: [
-      { url: "../../../public/blue-jacket-men.webp", altText: "Men Top Wear - Blue - Denim Jacket" },
-      { url: "../../../public/black-jacket-men.webp", altText: "Men Top Wear - Black - Denim Jacket" },
+      { url: "/blue-jacket-men.webp", altText: "Men Top Wear - Blue - Denim Jacket" },
+      { url: "/black-jacket-men.webp", altText: "Men Top Wear - Black - Denim Jacket" },
     ],
   },
   {
@@ -187,8 +187,8 @@ const products = [
     material: "Leather",
     gender: "Men",
     images: [
-      { url: "../../../public/black-leather-jacket-men.jpg", altText: "Men Top Wear - Black - Leather Jacket" },
-      { url: "../../../public/brown-leather-jacket-men.avif", altText: "Men Top Wear - Brown - Leather Jacket" },
+      { url: "/black-leather-jacket-men.jpg", altText: "Men Top Wear - Black - Leather Jacket" },
+      { url: "/brown-leather-jacket-men.avif", altText: "Men Top Wear - Brown - Leather Jacket" },
     ],
   },
   {
@@ -206,8 +206,8 @@ const products = [
     material: "Polyester",
     gender: "Women",
     images: [
-      { url: "../../../public/black-pleaked-skirt-women.webp", altText: "Women Bottom Wear - Black - Pleated Skirt" },
-      { url: "../../../public/beige-pleaked-skirt-women.webp", altText: "Women Bottom Wear - Beige - Pleated Skirt" },
+      { url: "/black-pleaked-skirt-women.webp", altText: "Women Bottom Wear - Black - Pleated Skirt" },
+      { url: "/beige-pleaked-skirt-women.webp", altText: "Women Bottom Wear - Beige - Pleated Skirt" },
     ],
   },
   {
@@ -225,8 +225,8 @@ const products = [
     material: "Cotton",
     gender: "Men",
     images: [
-      { url: "../../../public/olives-cargo-pants-men.webp", altText: "Men Bottom Wear - Olive - Cargo Pants" },
-      { url: "../../../public/black-cargo-pant-men.webp", altText: "Men Bottom Wear - Black - Cargo Pants" },
+      { url: "/olives-cargo-pants-men.webp", altText: "Men Bottom Wear - Olive - Cargo Pants" },
+      { url: "/black-cargo-pant-men.webp", altText: "Men Bottom Wear - Black - Cargo Pants" },
     ],
   },
   {
@@ -244,8 +244,8 @@ const products = [
     material: "Denim",
     gender: "Women",
     images: [
-      { url: "../../../public/blue-skinny-jeans-women.webp", altText: "Women Bottom Wear - Blue - Skinny Jeans" },
-      { url: "../../../public/black-skinny-jeans-omen.webp", altText: "Women Bottom Wear - Black - Skinny Jeans" },
+      { url: "/blue-skinny-jeans-women.webp", altText: "Women Bottom Wear - Blue - Skinny Jeans" },
+      { url: "/black-skinny-jeans-omen.webp", altText: "Women Bottom Wear - Black - Skinny Jeans" },
     ],
   },
   {
@@ -263,8 +263,8 @@ const products = [
     material: "Fleece",
     gender: "Women",
     images: [
-      { url: "../../../public/gray-oversized-hoodie-women.jpg", altText: "Women Top Wear - Gray - Oversized Hoodie" },
-      { url: "../../../public/beige-oversized-hoodie-women.webp", altText: "Women Top Wear - Beige - Oversized Hoodie" },
+      { url: "/gray-oversized-hoodie-women.jpg", altText: "Women Top Wear - Gray - Oversized Hoodie" },
+      { url: "/beige-oversized-hoodie-women.webp", altText: "Women Top Wear - Beige - Oversized Hoodie" },
     ],
   },
   {
@@ -282,8 +282,8 @@ const products = [
     material: "Polyester",
     gender: "Women",
     images: [
-      { url: "../../../public/gray-high-weist-trousers-women.webp", altText: "Women Bottom Wear - Gray - High-Waist Trousers" },
-      { url: "../../../public/navy-high-weist-trousers.webp", altText: "Women Bottom Wear - Navy - High-Waist Trousers" },
+      { url: "/gray-high-weist-trousers-women.webp", altText: "Women Bottom Wear - Gray - High-Waist Trousers" },
+      { url: "/navy-high-weist-trousers.webp", altText: "Women Bottom Wear - Navy - High-Waist Trousers" },
     ],
   },
   {
@@ -301,8 +301,8 @@ const products = [
     material: "Cotton",
     gender: "Women",
     images: [
-      { url: "../../../public/white-ribbed-tank-top-women.webp", altText: "Women Top Wear - White - Ribbed Tank Top" },
-      { url: "../../../public/black-ribed-tank-top-women.webp", altText: "Women Top Wear - Black - Ribbed Tank Top" },
+      { url: "/white-ribbed-tank-top-women.webp", altText: "Women Top Wear - White - Ribbed Tank Top" },
+      { url: "/black-ribed-tank-top-women.webp", altText: "Women Top Wear - Black - Ribbed Tank Top" },
     ],
   },
   {
@@ -320,8 +320,8 @@ const products = [
     material: "Cotton Blend",
     gender: "Men",
     images: [
-      { url: "../../../public/blue-seatshirt-men.jpg", altText: "Men Top Wear - Navy - Crewneck Sweatshirt" },
-      { url: "../../../public/beige-swatshirt-men.webp", altText: "Men Top Wear - Beige - Crewneck Sweatshirt" },
+      { url: "/blue-seatshirt-men.jpg", altText: "Men Top Wear - Navy - Crewneck Sweatshirt" },
+      { url: "/beige-swatshirt-men.webp", altText: "Men Top Wear - Beige - Crewneck Sweatshirt" },
     ],
   },
   {
@@ -339,8 +339,8 @@ const products = [
     material: "Polyester",
     gender: "Women",
     images: [
-      { url: "../../../public/black-puffer-jacket-wmoen.jpg", altText: "Women Top Wear - Black - Puffer Jacket" },
-      { url: "../../../public/olive-puffer-jacket-women.webp", altText: "Women Top Wear - Olive - Puffer Jacket" },
+      { url: "/black-puffer-jacket-wmoen.jpg", altText: "Women Top Wear - Black - Puffer Jacket" },
+      { url: "/olive-puffer-jacket-women.webp", altText: "Women Top Wear - Olive - Puffer Jacket" },
     ],
   },
 ];
